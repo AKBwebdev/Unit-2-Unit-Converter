@@ -2,8 +2,10 @@
 
 An easy-to-use Android App to convert units such as Temperature, Length, Weight, Volume, Speed, Power, Pressure, Energy, Force, Area, Time and many others. 
 
+### Google Playstore Link
+https://play.google.com/store/apps/details?id=com.acubed.android.unit2unitconverter
 
-### Features
+### App Highlights
 * Works on Android 4.0.3 and later
 * Free and completely advertisement-free too!
 * Instant conversion for regular units
@@ -12,9 +14,13 @@ An easy-to-use Android App to convert units such as Temperature, Length, Weight,
 * Ability to customise app for Thousand/Decimal separators, Decimal precision and color theme
 * Ability to share conversion data
 
-
-### Google Playstore Link
-https://play.google.com/store/apps/details?id=com.acubed.android.unit2unitconverter
+### Android Features used in the app
+* Room Library, LiveData, ViewModel
+* ConstraintLayout
+* RecyclerView
+* CoordinatorLayout, AppBarLayout, ToolBar
+* BottomNavigationView and Bottom Modal Sheet
+* Custom Toast messages
 
 
 ##
